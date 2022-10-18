@@ -11,6 +11,7 @@
     $ w
     $ cat /etc/passwd
     ```
+* 아래와 같은 description을 보고, 리눅스 명령어로 직접 해보기
 * 1. Create three directories workspace1, workspace2, workspace3 as subdirectories
 under your home directory.
 * 2. Create two directories test1, test2 as subdirectories of workspace1.
