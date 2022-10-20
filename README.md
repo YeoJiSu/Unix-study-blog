@@ -52,8 +52,7 @@ VMware(나 가상머신 지원 소프트웨어는 다 가능)에 리눅스를 �
 
 
 ----
-> ### 5번 과제 부터는 [datalab-pnu](https://github.com/datalab-pnu) organization의 GitHub Classroom 으로 부터 생성된 template을 clone 받아 과제를 수행했다. 
-5,6,7 과제 모두 전화번호 관리 프로그램을 만드는데 7차시로 갈수록 더 upgrade 된 프로그램을 작성해나간다.
+> ### 5번 과제 부터는 [datalab-pnu](https://github.com/datalab-pnu) organization의 GitHub Classroom 으로 부터 생성된 template을 clone 받아 과제를 수행했다. 5,6,7 과제 모두 전화번호 관리 프로그램을 만드는데 7차시로 갈수록 더 upgrade 된 프로그램을 작성해나간다.
 ----
 
 <br><br>
@@ -74,6 +73,9 @@ VMware(나 가상머신 지원 소프트웨어는 다 가능)에 리눅스를 �
 ### 📌 설명
 [전화번호 관리 프로그램의 동작 설명](https://github.com/YeoJiSu/Unix-study-blog/blob/main/5/README.md)
 
+### 📌 포크한 해당 GitHub Classroom 
+[unix-hw5-YeoJiSu](https://github.com/YeoJiSu/unix-hw5-YeoJiSu)
+
 <br><br>
 
 # 📁 6. 함수 포인터와 void 포인터
@@ -91,6 +93,9 @@ VMware(나 가상머신 지원 소프트웨어는 다 가능)에 리눅스를 �
 ``` 
 ### 📌 설명
 전화번호 분류 기능이 추가 된 [전화번호 관리 프로그램의 동작 설명](https://github.com/YeoJiSu/Unix-study-blog/blob/main/6/README.md)
+
+### 📌 포크한 해당 GitHub Classroom 
+[unix-hw6-YeoJiSu](https://github.com/YeoJiSu/unix-hw6-YeoJiSu)
 
 <br><br>
 
@@ -118,4 +123,7 @@ VMware(나 가상머신 지원 소프트웨어는 다 가능)에 리눅스를 �
 
 ### 📌 설명
 공유라이브러리를 활용한 [전화번호 관리 프로그램의 동작 설명](https://github.com/YeoJiSu/Unix-study-blog/blob/main/7/README.md)
+
+### 📌 포크한 해당 GitHub Classroom 
+[unix-hw7-YeoJiSu](https://github.com/YeoJiSu/unix-hw7-YeoJiSu)
 
